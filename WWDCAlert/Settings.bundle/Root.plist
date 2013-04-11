@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PreferenceSpecifiers</key>
+	<array>
+		<dict>
+			<key>AutocapitalizationType</key>
+			<string>None</string>
+			<key>AutocorrectionType</key>
+			<string>No</string>
+			<key>DefaultValue</key>
+			<string>https://developer.apple.com/wwdc/</string>
+			<key>IsSecure</key>
+			<false/>
+			<key>Key</key>
+			<string>url</string>
+			<key>KeyboardType</key>
+			<string>URL</string>
+			<key>Title</key>
+			<string>URL</string>
+			<key>Type</key>
+			<string>PSTextFieldSpecifier</string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSMultiValueSpecifier</string>
+			<key>Title</key>
+			<string>Content Change Notification</string>
+			<key>Key</key>
+			<string>contentChangeNotification</string>
+			<key>DefaultValue</key>
+			<string>Squeeze Toy.aif</string>
+			<key>Titles</key>
+			<array>
+				<string>None</string>
+				<string>Silent</string>
+				<string>Default Sound</string>
+				<string>Alarm Sound</string>
+				<string>Squeeze Toy Sound</string>
+			</array>
+			<key>Values</key>
+			<array>
+				<string>&lt;disabled&gt;</string>
+				<string>&lt;nosound&gt;</string>
+				<string>&lt;default&gt;</string>
+				<string>Alarm.aif</string>
+				<string>Squeeze Toy.aif</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSMultiValueSpecifier</string>
+			<key>Title</key>
+			<string>App Not Running Notification</string>
+			<key>Key</key>
+			<string>notRunningNotification</string>
+			<key>DefaultValue</key>
+			<string>&lt;default&gt;</string>
+			<key>Titles</key>
+			<array>
+				<string>None</string>
+				<string>Silent</string>
+				<string>Default Sound</string>
+				<string>Alarm Sound</string>
+				<string>Squeeze Toy Sound</string>
+			</array>
+			<key>Values</key>
+			<array>
+				<string>&lt;disabled&gt;</string>
+				<string>&lt;nosound&gt;</string>
+				<string>&lt;default&gt;</string>
+				<string>Alarm.aif</string>
+				<string>Squeeze Toy.aif</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSMultiValueSpecifier</string>
+			<key>Title</key>
+			<string>Background Launch Notification</string>
+			<key>Key</key>
+			<string>backgroundLaunchNotification</string>
+			<key>DefaultValue</key>
+			<string>&lt;disabled&gt;</string>
+			<key>Titles</key>
+			<array>
+				<string>None</string>
+				<string>Silent</string>
+				<string>Default Sound</string>
+				<string>Alarm Sound</string>
+				<string>Squeeze Toy Sound</string>
+			</array>
+			<key>Values</key>
+			<array>
+				<string>&lt;disabled&gt;</string>
+				<string>&lt;nosound&gt;</string>
+				<string>&lt;default&gt;</string>
+				<string>Alarm.aif</string>
+				<string>Squeeze Toy.aif</string>
+			</array>
+		</dict>
+	</array>
+	<key>StringsTable</key>
+	<string>Root</string>
+</dict>
+</plist>
