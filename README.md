@@ -59,3 +59,7 @@ Don't even think about submitting it to the AppStore.
 The software is distributed under MIT license (see License.txt).
 
 Don't blame me if you will not get a ticket for whatever reason :-)
+
+## Contact ##
+
+ADN: [@sptim](https://alpha.app.net/sptim) (English) or [@sptim_de](https://alpha.app.net/sptim_de) (German)
